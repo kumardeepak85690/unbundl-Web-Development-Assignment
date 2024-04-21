@@ -23,6 +23,10 @@ nav {
     text-decoration: none;
     color: #1b1b1b;
   }
+
+  h1{
+    padding: 1rem;
+  }
   
   nav a[aria-current='page'] {
     color: #000;
